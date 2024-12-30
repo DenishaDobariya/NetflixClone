@@ -37,9 +37,8 @@ Follow these steps to set up the project on your local machine.
 
 Clone the repository to your local machine:
 
-    git clone https://github.com/your-username/NetflixClone.git
+    git clone https://github.com/DenishaDobariya/NetflixClone.git
     cd NetflixClone
-
         
 ### 2.Set Up Environment Variables
 
@@ -58,6 +57,8 @@ Create a .env file in the root of the project directory and add the following en
 ### 5.Start the app
 
     npm run start
+
+ It will run on http://localhost:5000
 
 ## Troubleshooting
 - **MongoDB Connection Error**:
